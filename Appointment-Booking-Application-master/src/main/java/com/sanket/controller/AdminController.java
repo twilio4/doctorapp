@@ -146,6 +146,9 @@ public class AdminController {
 		
 	}
 
+	public void test(){
+	}
+
 }
 
 	
